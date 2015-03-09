@@ -1,1 +1,1 @@
-CFLAGS=-std=c11 -Wall -Wextra
+CFLAGS=-std=c11 -Wall -Wextra -g -O2
